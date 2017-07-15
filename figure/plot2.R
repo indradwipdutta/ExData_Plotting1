@@ -1,4 +1,4 @@
-##plot1 for plot1.png
+##plot2 for plot2.png
 ##Read the text file
 PwrCons<-read.table("household_power_consumption.txt",header = TRUE,sep = ";",na.strings = "?",colClasses = c('character','character','numeric','numeric','numeric','numeric','numeric','numeric','numeric'))
 
